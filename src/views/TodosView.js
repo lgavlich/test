@@ -3,10 +3,10 @@ import Container from '../components/Container';
 import TodoList from '../components/TodoList';
 import TodoEditor from '../components/TodoEditor';
 import Filter from '../components/TodoFilter';
-import Stats from '../components/Stats';
+//import Stats from '../components/Stats';
 import Modal from '../components/Modal';
 import IconButton from '../components/IconButton';
-import { ReactComponent as AddIcon } from '../icons/default.jpg';
+import { ReactComponent as AddIcon } from '../icons/add.svg';
 
 const barStyles = {
   display: 'flex',
